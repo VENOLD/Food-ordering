@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>714764052875-igsls9hfcf6ci62cmvcqkvhfufp35nus.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.714764052875-igsls9hfcf6ci62cmvcqkvhfufp35nus</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB7cPSkSKJqxpinvmShsfcibi4dPpexzEI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>714764052875</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.insaCafeteria</string>
+	<key>PROJECT_ID</key>
+	<string>habeshabussystem</string>
+	<key>STORAGE_BUCKET</key>
+	<string>habeshabussystem.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:714764052875:ios:8d2d93aa4819b362e4a78e</string>
+	<key>DATABASE_URL</key>
+	<string>https://habeshabussystem-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
