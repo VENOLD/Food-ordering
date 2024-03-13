@@ -1,4 +1,4 @@
-# insa_cafeteria
+# Food Order with Flutter
 
 A new Flutter project.
 
